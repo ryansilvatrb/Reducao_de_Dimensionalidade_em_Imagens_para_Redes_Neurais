@@ -17,7 +17,3 @@ O objetivo é realizar um pré-processamento de imagens utilizando **bibliotecas
   1. Imagem original
   2. Imagem em cinza
   3. Imagem binária
-
-## 📷 Exemplo de uso
-```bash
-python lenas.py
